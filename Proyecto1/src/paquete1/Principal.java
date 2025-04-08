@@ -9,6 +9,8 @@ public class Principal {
 				+ "con Git");
 		System.out.println("Estamos haciendo control de versiones "
 				+ "con Git");
+		System.out.println("Estamos haciendo control de versiones "
+				+ "con Git");
 		
 	}
 
