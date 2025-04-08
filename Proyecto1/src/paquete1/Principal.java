@@ -7,6 +7,8 @@ public class Principal {
 				+ "con Git");
 		System.out.println("Estamos probando nuevamente el control "
 				+ "de versiones de Git");
+		System.out.println("Otro mensaje probando el contol de "
+				+ "versiones de Git");
 	}
 
 }
